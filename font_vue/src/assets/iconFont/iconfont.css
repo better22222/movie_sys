@@ -1,0 +1,107 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3788660 */
+  src: url('iconfont.woff2?t=1670773546964') format('woff2'),
+       url('iconfont.woff?t=1670773546964') format('woff'),
+       url('iconfont.ttf?t=1670773546964') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-kefu:before {
+  content: "\e625";
+}
+
+.icon-guanyanren:before {
+  content: "\e63f";
+}
+
+.icon-xiaoxi-:before {
+  content: "\e60c";
+}
+
+.icon-xiangkan:before {
+  content: "\e8bc";
+}
+
+.icon-xiaoxizhongxin:before {
+  content: "\e8be";
+}
+
+.icon-zhifushezhi:before {
+  content: "\e627";
+}
+
+.icon-cangku:before {
+  content: "\e734";
+}
+
+.icon-icon:before {
+  content: "\e657";
+}
+
+.icon-zuji:before {
+  content: "\e602";
+}
+
+.icon-miaobicopy:before {
+  content: "\e60a";
+}
+
+.icon-shoucang:before {
+  content: "\eca7";
+}
+
+.icon-qiapian:before {
+  content: "\e6c4";
+}
+
+.icon-yingchengka:before {
+  content: "\e8c0";
+}
+
+.icon-youhuiquan:before {
+  content: "\e8c1";
+}
+
+.icon-daipingjia:before {
+  content: "\e772";
+}
+
+.icon-zhoubian:before {
+  content: "\e91a";
+}
+
+.icon-dianyingpiao:before {
+  content: "\e600";
+}
+
+.icon-yanchurili:before {
+  content: "\e644";
+}
+
+.icon-dianying:before {
+  content: "\e609";
+}
+
+.icon-yuanguanyingicon:before {
+  content: "\e632";
+}
+
+.icon-yanchu:before {
+  content: "\e62b";
+}
+
+.icon-guanyingqia:before {
+  content: "\e642";
+}
+
+.icon-yanchu1:before {
+  content: "\e8bf";
+}
+
